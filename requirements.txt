@@ -1,5 +1,6 @@
 python-telegram-bot
 pandas
 numpy
-iqoptionapi
+iqoptionapi==0.5
 python-dotenv
+httpx
