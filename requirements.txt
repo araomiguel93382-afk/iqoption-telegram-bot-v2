@@ -1,7 +1,6 @@
 python-telegram-bot
 pandas
 numpy
-iqoptionapi==7.0.2
 python-dotenv
 httpx
 websocket-client
