@@ -1,6 +1,10 @@
 python-telegram-bot
 pandas
 numpy
-git+https://github.com/Lu-An-Ro-Ma/iqoptionapi.git
+iqoptionapi
 python-dotenv
 httpx
+websocket-client
+requests
+six
+pyopenssl
