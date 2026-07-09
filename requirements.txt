@@ -1,7 +1,7 @@
 python-telegram-bot
 pandas
 numpy
-iqoptionapi-stable
+https://github.com/Lu-An-Ro-Ma/iqoptionapi/archive/refs/heads/master.zip
 python-dotenv
 httpx
 websocket-client
