@@ -1,6 +1,6 @@
 python-telegram-bot
 pandas
 numpy
-iqoptionapi==0.5
+git+https://github.com/Lu-An-Ro-Ma/iqoptionapi.git
 python-dotenv
 httpx
